@@ -4,9 +4,11 @@ def display_board
   puts ""
   print "-----------"
   print "   |   |   "
-  puts "-----------"
+  puts ""
+  print "-----------"
   print "   |   |   "
-  puts "-----------"
+  puts ""
+  print "-----------"
 end
 
 display_board
